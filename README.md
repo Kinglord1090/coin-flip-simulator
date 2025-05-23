@@ -16,7 +16,7 @@ This project is a coin flip simulator that allows users to flip a virtual coin a
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/coin-flip-simulator.git
+    git clone https://github.com/Kinglord1090/coin-flip-simulator.git
     ```
 
 ## Usage
